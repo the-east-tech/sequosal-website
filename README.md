@@ -9,7 +9,7 @@ Static websites served by Cloudflare Pages:
 ## Cloudflare Pages
 
 - Production branch: `main`
-- Build command: none
+- Build command: `exit 0`
 - Build output directory: `.`
 
 The repository root is the deployable output. Do not move these files back into
